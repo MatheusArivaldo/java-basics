@@ -49,4 +49,4 @@ This repository contains a collection of projects I developed to learn and pract
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/java-basics-projects.git
+   git clone https://github.com/MatheusArivaldo/java-basics
